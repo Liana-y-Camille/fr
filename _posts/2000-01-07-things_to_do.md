@@ -1,0 +1,144 @@
+---
+title: "Que faire"
+bg_color: "#FAF3E0"
+color: charcoal
+style: center
+---
+
+<div id="Pre-Wedding" style="padding-top: 0px; margin-top: -200px;"> <!-- avoid empty space after auto-scrolling -->
+
+<div style="margin-top: 80px;"></div>   <!-- add blank space above -->
+
+
+<div style="
+  color: #2C2C2C;
+  font-family: 'Playfair Display', serif;
+  line-height: 1.5;
+  text-align: center;
+  max-width: 800px;
+  margin: 40px auto;
+">
+
+  <!-- Section Title -->
+  <strong>
+    <div style="font-size: 2em; margin-bottom: 1em;">
+      Que faire au Salvador
+    </div>
+  </strong>
+</div>
+
+<!-- photo for introducing the section -->
+<div style="
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  background: url('/assets/img/conchagua_sunrise_cut.png') no-repeat center center;
+  background-size: cover;
+  border-radius: 8px; /* optional: soften corners */
+">
+</div>
+
+<!-- intro text-->
+<div style="
+  color: #2C2C2C;
+  font-family: 'Playfair Display', serif;
+  line-height: 1.5;
+  text-align: center;
+  max-width: 700px;
+  margin: 40px auto;
+">
+  <p style="font-size: 1.5em;">
+    <br><em>Nos suggestions sélectionnées pour explorer le pays :</em><br>
+  </p>
+</div>
+
+<!-- Things to Do Around El Salvador -->
+<div style="
+  color: #2C2C2C;
+  font-family: 'Playfair Display', serif;
+  line-height: 1.5;
+  text-align: center;
+  max-width: 800px;
+  margin: 40px auto;
+">
+
+  <!-- Day Trips -->
+  <strong>
+    <div style="font-size: 1.5em; margin-bottom: 0.5em;">
+      Excursions d'une journée
+    </div>
+  </strong>
+
+  <div style="font-size: 1.2em; margin-bottom: 2em; text-align: left;">
+    
+  <p><strong>Plages de La Libertad :</strong> À seulement 45 minutes de San Salvador
+    <ul style="list-style-type: disc; margin-left: 20px;">
+      <li><strong><a href="https://maps.app.goo.gl/xPSCDr3fcoGcoWz19" target="_blank">El Tunco</a> :</strong> Allez dans n'importe lequel des restaurants et bars de la petite ville de surf. Ne manquez pas <a href="https://maps.app.goo.gl/VzBZRBUpD7XnF5CC6" target="_blank">les baos</a> !</li>
+      <li><strong><a href="https://maps.app.goo.gl/MkzRkMKSJdvKeHXA6" target="_blank">El Zonte</a> :</strong> Prenez un cours de surf, faites du skate dans le bowl, ou profitez de la nourriture et des boissons dans l'un des restaurants/bars près de la plage.</li>
+      <li><strong><a href="https://maps.app.goo.gl/b2nvLTyxfeMC9RSv6" target="_blank">La Hola</a> :</strong> Délicieux fruits de mer et boissons avec une superbe vue sur l'océan.</li>
+      <li><strong><a href="https://maps.app.goo.gl/uCH54PrFxH6US3qD8" target="_blank">Puro Surf</a> :</strong> Académie de surf + restaurant. Essayez le surf-skate si vous vous sentez aventureux.</li>
+      <li><strong><a href="https://maps.app.goo.gl/Ktmxx8yydFtX8ALr8" target="_blank">Cascadas de Tamanique</a> :</strong> À environ une heure. Randonnée intermédiaire vers de superbes cascades. Pour un guide, contactez Vladi (+503 7099 1445).</li>
+    </ul>
+  </p>
+
+  <p><strong><a href="https://maps.app.goo.gl/BDCcdyCuwMfL3CmX8" target="_blank">Centro Histórico de San Salvador</a> :</strong> Un mélange de culture et de plaisir
+    <ul style="list-style-type: disc; margin-left: 20px;">
+      <li>Jouez au billard et mangez des choripanes dans le bar à l'ancienne <a href="https://maps.app.goo.gl/Th8aGQdyHCjG3ecr7" target="_blank">La Dalia</a></li>
+      <li>Dansez au <a href="https://maps.app.goo.gl/GskhAAQAiQMYzqTK7" target="_blank">Cha-Cha-Cha</a></li>
+      <li>Découvrez <a href="https://maps.app.goo.gl/RwyAvSuCPFXE73ne6" target="_blank">City Forum Binaes</a> et le <a href="https://maps.app.goo.gl/mTmX39ZK2Joybz9YA" target="_blank">Palais National</a></li>
+    </ul>
+  </p>
+
+  <p><strong><a href="https://maps.app.goo.gl/HfAkzitkANWixfT96" target="_blank">Peñón de Comasagua</a> :</strong> Petite randonnée vers un rocher géant avec des vues magnifiques</p>
+
+  <p><strong><a href="https://maps.app.goo.gl/PCX9wYBGzCghttXm6" target="_blank">Cerro Verde</a> :</strong> Nature et vues
+    <ul style="list-style-type: disc; margin-left: 20px;">
+      <li>Randonnez le <a href="https://maps.app.goo.gl/R8b8oZCKSjAPq29j8" target="_blank">Volcán de Santa Ana</a> si vous en avez envie</li>
+      <li>Profitez du Volcán de Izalco depuis <a href="https://maps.app.goo.gl/PKwFtP81Be7mt3tSA" target="_blank">Casa 1800</a> (endroit parfait pour le déjeuner ou les boissons)</li>
+      <li>Campez à <a href="https://maps.app.goo.gl/U3DHYfRLnS2z4HNb7" target="_blank">Casa de Cristal</a> pour une nuit sous les étoiles</li>
+    </ul>
+  </p>
+
+  <p><strong><a href="https://maps.app.goo.gl/mk7sDgzhixTkr88u7" target="_blank">Parque El Imposible</a> :</strong> Des tonnes de sentiers pour randonner et explorer la jungle salvadorienne.</p>
+  </div>
+
+
+  <!-- Overnight Trips -->
+<strong>
+  <div style="font-size: 1.5em; margin-bottom: 0.5em;">
+    <br><br>Voyages d'une nuit
+  </div>
+</strong>
+
+<div style="font-size: 1.2em; margin-bottom: 2em; text-align: left;">
+  <p><strong>Plages de l'Oriente :</strong></p>
+  <ul style="list-style-type: disc; margin-left: 20px;">
+    <li><strong><a href="https://maps.app.goo.gl/MAHBMhRn5wHxnafTA" target="_blank">El Cuco</a> :</strong> Détendez-vous à <a href="https://maps.app.goo.gl/1F4feTR9Y3vnfint6" target="_blank">La Tortuga</a> pour une journée complète à la plage.</li>
+    <li><strong><a href="https://maps.app.goo.gl/A8DUdHcUU7h4zhad9" target="_blank">Punta Mango</a> :</strong> Visitez les plages les plus sauvages et les plus belles du pays. Prenez un cours de surf ! (C'est là que nous nous sommes fiancés !)</li>
+  </ul>
+  <p><strong><a href="https://maps.app.goo.gl/x4Ln2M9Bu23LeRnc9" target="_blank">Mirador Espíritu de la Montaña</a> (Conchagua) :</strong> Apportez ou louez une tente et profitez d'un lever de soleil à couper le souffle avec des vues s'étendant à travers le Salvador, le Honduras et le Nicaragua.</p>
+</div>
+
+
+  <!-- longer trips -->
+<strong>
+  <div style="font-size: 1.5em; margin-bottom: 0.5em;">
+    <br><br>Voyage de plusieurs jours
+  </div>
+</strong>
+
+<div style="font-size: 1.2em; margin-bottom: 2em; text-align: center;">
+  <p>
+    Si vous osez vous aventurer au-delà de la frontière du Salvador, nous recommandons vivement une visite à 
+    <a href="https://maps.app.goo.gl/eZDK92rNKvtCtfmy5" target="_blank">Antigua, Guatemala</a> (~5 heures de bus depuis San Salvador). 
+    Pour l'aventure ultime, randonnez le 
+    <a href="https://maps.app.goo.gl/k3cTUJebzPf2VEvP6" target="_blank">Volcan Acatenango</a> et passez une nuit inoubliable avec un volcan actif en éruption juste devant vos yeux.
+  </p>
+</div>
+
+
+
+</div>
+
+
+<div style="margin-top: 200px;"></div>   <!-- add blank space above -->
+<hr style="border: none; border-top: 1px solid #aaa; margin: 40px auto; width: 60%;">

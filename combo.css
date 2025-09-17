@@ -1,0 +1,18 @@
+---
+---
+{% include css/base.css %}
+{% include css/skeleton.css %}
+{% include css/main.css %}
+
+/* Adjust top tab text size and padding */
+nav ul li a {
+  font-size: 14px;     /* tab text size */
+  padding: 6px 10px;   /* reduced padding to fit more tabs per row */
+}
+
+@media (max-width: 480px) {
+  nav ul li a {
+    font-size: 12px;    /* smaller text on phones */
+    padding: 5px 8px;   /* slightly smaller padding for small screens */
+  }
+}
