@@ -124,11 +124,21 @@ style: center
     </div>
   </strong>
   <div style="font-size: 1.2em; margin-bottom: 2em;">
-    La cérémonie civile aura lieu sur le même site, suivie d'une réception cocktail, dîner et fête.
+    La cérémonie civile aura lieu sur le même site, suivie d'une réception cocktail, dîner et fête.<br><br>
   </div>
 
 
-
+  <!-- Shuttle Service Info -->
+  <strong>
+    <div style="font-size: 1.5em; margin-bottom: 0.5em;">
+      Service de Navette <br> San Salvador &#8596; lieu du Mariage
+    </div>
+  </strong>
+  <div style="font-size: 1.2em; margin-bottom: 2em;">
+    Le transport sera fourni aux invités internationaux depuis <a href="https://maps.app.goo.gl/jkFJ23SHNEhP6SEx9" target="_blank">l'Hôtel Barcelo</a> jusqu'au lieu du Mariage. <br>
+    Heure de départ à l'Hôtel Barcelo : <strong>15:30</strong> <br>
+    Heure de retour à San Salvador : <strong>00:00</strong> / <strong>2:00 du matin</strong>
+  </div>
 
 
 </div>
