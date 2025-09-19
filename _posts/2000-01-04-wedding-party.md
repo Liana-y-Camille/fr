@@ -131,11 +131,11 @@ style: center
   <!-- Shuttle Service Info -->
   <strong>
     <div style="font-size: 1.5em; margin-bottom: 0.5em;">
-      Service de Navette <br> San Salvador &#8596; lieu du Mariage
+      Service de Navette <br> San Salvador &#8596; lieu du mariage
     </div>
   </strong>
   <div style="font-size: 1.2em; margin-bottom: 2em;">
-    Le transport sera fourni aux invités internationaux depuis <a href="https://maps.app.goo.gl/jkFJ23SHNEhP6SEx9" target="_blank">l'Hôtel Barcelo</a> jusqu'au lieu du Mariage. <br>
+    Le transport sera fourni aux invités internationaux depuis <a href="https://maps.app.goo.gl/jkFJ23SHNEhP6SEx9" target="_blank">l'Hôtel Barcelo</a> jusqu'au lieu du mariage. <br>
     Heure de départ à l'Hôtel Barcelo : <strong>15:30</strong> <br>
     Heure de retour à San Salvador : <strong>00:00</strong> ou <strong>2:00 du matin</strong>
   </div>
