@@ -20,7 +20,7 @@ style: center
   line-height: 1.2;
   text-shadow: 0.5px 0.5px 1px rgba(0,0,0,0.1);
 ">
-  <strong>Le Lieu</strong>
+  <strong>Le Cadre</strong>
 </div>
 
 
@@ -45,7 +45,7 @@ style: center
   margin: 40px auto;
 ">
   <p style="font-size: 1.2em;">
-    Notre mariage aura lieu au lieu 'Fôret', à seulement 15 minutes à l'extérieur de la ville, dans les collines de Comasagua. Avec sa terrasse spacieuse, son grand jardin et ses vues à couper le souffle, cela nous a semblé être l'endroit parfait pour dire <em>oui</em> et célébrer avec vous !
+    Notre mariage aura lieu au site de réception 'Fôret', à seulement 15 minutes à l'extérieur de la ville, dans les collines de Comasagua. Avec sa terrasse spacieuse, son grand jardin et ses vues à couper le souffle, ça nous a semblé être l'endroit parfait pour se dire <em>oui</em> et célébrer avec vous !
   </p>
 </div>
 
@@ -111,8 +111,8 @@ style: center
     </div>
   </strong>
   <div style="font-size: 1.2em; margin-bottom: 2em;">
-    Costumes, cravates, robes longues et robes de soirée. <br><br>
-    Si vous portez une robe ou une robe de soirée, nous recommandons un châle ou une veste légère car il pourrait faire frais la nuit. <br><br>
+    Costumes, cravates, robes de soirée. <br><br>
+    Si vous portez une robe, nous recommandons un châle ou une veste légère car il pourrait faire frais la nuit. <br><br>
     Merci de tenir compte de l'herbe lors du choix des chaussures.<br><br>
   </div>
 
@@ -124,7 +124,7 @@ style: center
     </div>
   </strong>
   <div style="font-size: 1.2em; margin-bottom: 2em;">
-    La cérémonie civile aura lieu au même endroit que le reste de l'événement, suivie d'une réception cocktail, dîner et fête.
+    La cérémonie civile aura lieu sur le même site, suivie d'une réception cocktail, dîner et fête.
   </div>
 
 

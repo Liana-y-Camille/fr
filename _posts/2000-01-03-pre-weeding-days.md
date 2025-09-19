@@ -18,10 +18,10 @@ color: charcoal
   text-shadow: 0.5px 0.5px 1px rgba(0,0,0,0.1);
 ">
   <strong>
-    <span style="font-size: 2em;">Journée Plage<br>Pré-Mariage</span><br>
+    <span style="font-size: 2em;">Journée Pré-Mariage à la Plage</span><br>
     <br>
     <span style="font-size: 1.5em;">Jeudi 12 mars 2026</span><br><br>
-    <span style="font-size: 1.2em;">09:30 – 18:00</span>
+    <span style="font-size: 1.2em;">9:30 – 18:00</span>
   </strong>
 </div>
 
@@ -58,8 +58,8 @@ color: charcoal
 
   <!-- Intro Text -->
   <div style="font-size: 1.2em; margin-bottom: 2em;">
-    Apportez vos tenues de plage ! <br><br>
-    Pour commencer les célébrations, nous invitons nos amis et famille venus de l'étranger à profiter d'une journée détendue et amusante avec nous à la plage.
+    Apportez vos maillots de bain ! <br><br>
+    Pour commencer les célébrations, nous invitons nos amis et famille venus de l'étranger à profiter d'une journée détente à la plage.
   </div>
 
   <!-- Shuttle Service Info -->
@@ -69,8 +69,8 @@ color: charcoal
     </div>
   </strong>
   <div style="font-size: 1.2em; margin-bottom: 2em;">
-    Le transport sera fourni aux invités internationaux depuis l'Hôtel Sheraton vers El Sunzal. <br>
-    Heure de départ à l'Hôtel Sheraton : <strong>09:30</strong> <br>
+    Le transport sera fourni aux invités internationaux depuis l'Hôtel Barcelo vers El Sunzal. <br>
+    Heure de départ à l'Hôtel Barcelo : <strong>9:30</strong> <br>
     Heure de retour à San Salvador : <strong>18:00</strong>
   </div>
 
@@ -116,10 +116,10 @@ color: charcoal
   text-shadow: 0.5px 0.5px 1px rgba(0,0,0,0.1);
 ">
   <strong>
-    <span style="font-size: 2em;">Journée Ataco<br>Pré-Mariage</span><br>
+    <span style="font-size: 2em;">Journée Pré-Mariage à Ataco</span><br>
     <br>
     <span style="font-size: 1.5em;">Vendredi 13 mars 2026</span><br><br>
-    <span style="font-size: 1.2em;">08:30 – 16:00</span>
+    <span style="font-size: 1.2em;">8:30 – 16:00</span>
   </strong>
 </div>
 
@@ -147,7 +147,7 @@ color: charcoal
   <!-- Ataco Day Title -->
   <strong>
     <div style="font-size: 1.5em; margin-bottom: 0.3em;">
-      Journée dans la maison de campagne d'Ataco et la ville
+      Journée à la campagne et découverte d’Ataco
     </div>
   </strong>
   <div style="font-size: 1.2em; margin-bottom: 1em;">
@@ -156,7 +156,7 @@ color: charcoal
 
   <!-- Intro Text -->
   <div style="font-size: 1.2em; margin-bottom: 2em;">
-    Nous invitons chaleureusement les amis et famille voyageant depuis l'étranger à nous rejoindre pour le déjeuner dans la maison de campagne de Liana, suivi d'une visite d'Ataco, une charmante ville dans les montagnes d'El Salvador.
+    Nous invitons chaleureusement les amis et famille voyageant depuis l'étranger pour un déjeuner dans la maison de campagne de Liana, suivi d'une visite d'Ataco, une charmante ville dans les montagnes d'El Salvador.
   </div>
 
   <!-- Shuttle Service Info -->
@@ -166,8 +166,8 @@ color: charcoal
     </div>
   </strong>
   <div style="font-size: 1.2em; margin-bottom: 2em;">
-    Le transport sera fourni aux invités internationaux depuis l'Hôtel Sheraton vers Ataco. <br>
-    Heure de départ à l'Hôtel Sheraton : <strong>08:30</strong> <br>
+    Le transport sera fourni aux invités internationaux depuis l'Hôtel Barcelo vers Ataco. <br>
+    Heure de départ à l'Hôtel Barcelo : <strong>8:30</strong> <br>
     Heure de retour à San Salvador : <strong>16:00</strong>
   </div>
 
@@ -178,7 +178,7 @@ color: charcoal
     </div>
   </strong>
   <div style="font-size: 1.2em;">
-    • Emportez une paire de chaussures confortables pour pouvoir explorer facilement la ville.<br>
+    • Amenez une paire de chaussures confortables pour pouvoir explorer facilement la ville.<br>
     • Nourriture et boissons seront fournies.<br>
     • Merci de confirmer votre présence via Camille (+33670831699).
   </div>
