@@ -47,7 +47,7 @@ style: center
   margin: 40px auto;
 ">
   <p style="font-size: 1.5em;">
-    <br><em>Nos recommandations pour découvrir le pays :</em><br>
+    <br><em>Nos recommandations pour découvrir le pays</em><br>
   </p>
 </div>
 
@@ -98,7 +98,7 @@ style: center
     </ul>
   </p>
 
-  <p><strong><a href="https://maps.app.goo.gl/mk7sDgzhixTkr88u7" target="_blank">Parque El Imposible</a> :</strong> Des nombreux sentiers pour randonner et explorer la jungle salvadorienne.</p>
+  <p><strong><a href="https://maps.app.goo.gl/mk7sDgzhixTkr88u7" target="_blank">Parque El Imposible</a> :</strong> De nombreux sentiers pour randonner et explorer la jungle salvadorienne.</p>
   </div>
 
 
