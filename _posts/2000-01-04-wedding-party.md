@@ -137,7 +137,7 @@ style: center
   <div style="font-size: 1.2em; margin-bottom: 2em;">
     Le transport sera fourni aux invités internationaux depuis <a href="https://maps.app.goo.gl/jkFJ23SHNEhP6SEx9" target="_blank">l'Hôtel Barcelo</a> jusqu'au lieu du Mariage. <br>
     Heure de départ à l'Hôtel Barcelo : <strong>15:30</strong> <br>
-    Heure de retour à San Salvador : <strong>00:00</strong> / <strong>2:00 du matin</strong>
+    Heure de retour à San Salvador : <strong>00:00</strong> ou <strong>2:00 du matin</strong>
   </div>
 
 
