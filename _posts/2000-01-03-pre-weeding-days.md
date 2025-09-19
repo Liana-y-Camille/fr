@@ -69,7 +69,7 @@ color: charcoal
     </div>
   </strong>
   <div style="font-size: 1.2em; margin-bottom: 2em;">
-    Le transport sera fourni aux invités internationaux depuis l'Hôtel Barcelo vers El Sunzal. <br>
+    Le transport sera fourni aux invités internationaux depuis <a href="https://maps.app.goo.gl/jkFJ23SHNEhP6SEx9" target="_blank">l'Hôtel Barcelo</a> vers El Sunzal. <br>
     Heure de départ à l'Hôtel Barcelo : <strong>9:30</strong> <br>
     Heure de retour à San Salvador : <strong>18:00</strong>
   </div>
@@ -166,7 +166,7 @@ color: charcoal
     </div>
   </strong>
   <div style="font-size: 1.2em; margin-bottom: 2em;">
-    Le transport sera fourni aux invités internationaux depuis l'Hôtel Barcelo vers Ataco. <br>
+    Le transport sera fourni aux invités internationaux depuis <a href="https://maps.app.goo.gl/jkFJ23SHNEhP6SEx9" target="_blank">l'Hôtel Barcelo</a> vers Ataco. <br>
     Heure de départ à l'Hôtel Barcelo : <strong>8:30</strong> <br>
     Heure de retour à San Salvador : <strong>16:00</strong>
   </div>
