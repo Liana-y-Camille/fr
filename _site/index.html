@@ -42,7 +42,7 @@
         
           
             
-            <li class="p-travel"><a href="#travel">Voyage</a></li>
+            <li class="p-travel"><a href="#travel">Venir</a></li>
           
         
           
@@ -121,6 +121,110 @@
   14 mars 2026 <br />
   San Salvador,<br />El Salvador
 </div>
+
+<!-- Language Selector -->
+<div class="language-switcher" style="text-align:center; margin: 30px 0; position:relative; display:inline-block;">
+  
+  <!-- Main Button -->
+  <button onclick="toggleLangMenu()">
+    Langue
+  </button>
+
+<!-- Dropdown Menu -->
+<div id="langMenu" style="
+  display:none;
+  position:absolute;
+  top:110%;
+  left:50%;
+  transform:translateX(-50%);
+  background:#FAF3E0;
+  border:2px solid #2C2C2C;
+  border-radius:12px;
+  padding:10px;
+  box-shadow: 0 6px 12px rgba(0,0,0,0.12);
+  text-align:center;
+  z-index:999;
+">
+  <a href="https://liana-y-camille.github.io" style="display:block; margin-bottom:12px;">
+    <img src="/assets/img/flag_en.png" alt="English" />
+  </a>
+  <a href="https://liana-y-camille.github.io/fr/" style="display:block; margin-bottom:12px;">
+    <img src="/assets/img/flag_fr.png" alt="Français" />
+  </a>
+  <a href="https://liana-y-camille.github.io/esp/" style="display:block; margin-bottom:0;">
+    <img src="/assets/img/flag_es.png" alt="Español" />
+  </a>
+</div>
+
+
+</div>
+
+<!-- Language Dropdown Script -->
+<script>
+function toggleLangMenu() {
+  const menu = document.getElementById("langMenu");
+  menu.style.display = (menu.style.display === "block") ? "none" : "block";
+}
+
+document.addEventListener("click", function(event) {
+  const menu = document.getElementById("langMenu");
+  const button = event.target.closest("button");
+  if (!menu.contains(event.target) && !button) {
+    menu.style.display = "none";
+  }
+});
+</script>
+
+<!-- Language Switcher Styling -->
+<style>
+.language-switcher button {
+  display: inline-block;
+  min-width: 140px;
+  padding: 10px 18px;
+  border-radius: 8px;
+  border: 0;
+  background: #2C2C2C;
+  color: #CAC9CA;
+  font-family: 'Raleway', sans-serif;
+  font-size: 1em;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  cursor: pointer;
+  transition: background 0.2s ease, transform 0.18s ease;
+}
+
+.language-switcher button:hover {
+  background: #494949;
+  transform: translateY(-2px);
+}
+
+#langMenu {
+  display: none;
+  position: absolute;
+  top: 110%;
+  left: 50%;
+  transform: translateX(-50%);
+  background: #2C2C2C;
+  padding: 6px 10px;
+  text-align: center;
+  border-radius: 0;
+  z-index: 999;
+}
+
+#langMenu a img {
+  width: 32px;
+  height: auto;
+  margin: 0 5px;
+  border: 1px solid #FAF3E0;
+  border-radius: 4px;
+}
+
+#langMenu a:hover img {
+  transform: translateY(-2px);
+  transition: transform 0.18s ease;
+}
+</style>
 
 <div style="margin-top: 240px;"></div>
 <p><!-- add blank space above --></p>
@@ -211,7 +315,7 @@
     </div>
   </strong>
   <div style="font-size: 1.2em; margin-bottom: 2em;">
-    Le transport sera fourni aux invités internationaux depuis l'Hôtel Barcelo vers El Sunzal. <br />
+    Le transport sera fourni aux invités internationaux depuis <a href="https://maps.app.goo.gl/jkFJ23SHNEhP6SEx9" target="_blank">l'Hôtel Barcelo</a> vers El Sunzal. <br />
     Heure de départ à l'Hôtel Barcelo : <strong>9:30</strong> <br />
     Heure de retour à San Salvador : <strong>18:00</strong>
   </div>
@@ -308,7 +412,7 @@
     </div>
   </strong>
   <div style="font-size: 1.2em; margin-bottom: 2em;">
-    Le transport sera fourni aux invités internationaux depuis l'Hôtel Barcelo vers Ataco. <br />
+    Le transport sera fourni aux invités internationaux depuis <a href="https://maps.app.goo.gl/jkFJ23SHNEhP6SEx9" target="_blank">l'Hôtel Barcelo</a> vers Ataco. <br />
     Heure de départ à l'Hôtel Barcelo : <strong>8:30</strong> <br />
     Heure de retour à San Salvador : <strong>16:00</strong>
   </div>
@@ -465,11 +569,21 @@
     </div>
   </strong>
   <div style="font-size: 1.2em; margin-bottom: 2em;">
-    La cérémonie civile aura lieu sur le même site, suivie d'une réception cocktail, dîner et fête.
+    La cérémonie civile aura lieu sur le même site, suivie d'une réception cocktail, dîner et fête.<br /><br />
   </div>
 
 
-
+  <!-- Shuttle Service Info -->
+  <strong>
+    <div style="font-size: 1.5em; margin-bottom: 0.5em;">
+      Service de Navette <br /> San Salvador &#8596; lieu du mariage
+    </div>
+  </strong>
+  <div style="font-size: 1.2em; margin-bottom: 2em;">
+    Le transport sera fourni aux invités internationaux depuis <a href="https://maps.app.goo.gl/jkFJ23SHNEhP6SEx9" target="_blank">l'Hôtel Barcelo</a> jusqu'au lieu du mariage. <br />
+    Heure de départ à l'Hôtel Barcelo : <strong>15:30</strong> <br />
+    Heure de retour à San Salvador : <strong>00:00</strong> ou <strong>2:00 du matin</strong>
+  </div>
 
 
 </div>
@@ -526,7 +640,7 @@
   margin: 40px auto;
 ">
   <p style="font-size: 1.2em;">
-    Le plus beau cadeau sera de vous avoir avec nous pour notre mariage ! Comme notre vie est rythmée par les voyages et les changements, nous serions reconnaissants de recevoir pricipalement des cadeaux monétaires, afin de nous aider à créer de nouveaux souvenirs où que la vie nous mène!
+    Le plus beau cadeau sera de vous avoir avec nous pour notre mariage ! Si vous souhaitez nous soutenir pour ce nouveau chapitre de notre vie, veuillez suivre le lien ci-dessous.
   </p>
 </div>
 
@@ -534,8 +648,7 @@
   <!-- LINKS for regalos -->
 <div style="display: flex; flex-direction: column; gap: 20px; max-width: 500px; margin: 40px auto;">
 
-  <!-- Cash Gift -->
-  <a href="YOUR_CASH_GIFT_LINK" target="_blank" style="
+  <a href="https://www.myregistry.com/wedding-registry/camille-le-roy-and-liana-villavicencio-san-salvador-san-salvador/5038348" target="_blank" style="
       text-decoration: none;
       padding: 20px;
       border: 2px solid #9f7148ff;
@@ -547,39 +660,7 @@
       color: #2C2C2C;
       transition: transform 0.2s ease, box-shadow 0.2s ease;
   " onmouseover="this.style.transform='scale(1.03)';this.style.boxShadow='0 6px 10px rgba(0,0,0,0.1)'" onmouseout="this.style.transform='scale(1)';this.style.boxShadow='0 4px 6px rgba(0,0,0,0.05)'">
-    <strong style="font-size: 1.4em;">Pórtico Real</strong>
-  </a>
-
-  <!-- Siman -->
-  <a href="YOUR_SIMAN_LINK" target="_blank" style="
-      text-decoration: none;
-      padding: 20px;
-      border: 2px solid #9f7148ff;
-      border-radius: 12px;
-      background-color: #FAF3E0;
-      box-shadow: 0 4px 6px rgba(0,0,0,0.05);
-      font-family: 'Playfair Display', serif;
-      text-align: center;
-      color: #2C2C2C;
-      transition: transform 0.2s ease, box-shadow 0.2s ease;
-  " onmouseover="this.style.transform='scale(1.03)';this.style.boxShadow='0 6px 10px rgba(0,0,0,0.1)'" onmouseout="this.style.transform='scale(1)';this.style.boxShadow='0 4px 6px rgba(0,0,0,0.05)'">
-    <strong style="font-size: 1.4em;">Siman</strong>
-  </a>
-
-  <!-- Zola -->
-  <a href="YOUR_ZOLA_LINK" target="_blank" style="
-      text-decoration: none;
-      padding: 20px;
-      border: 2px solid #9f7148ff;
-      border-radius: 12px;
-      background-color: #FAF3E0;
-      box-shadow: 0 4px 6px rgba(0,0,0,0.05);
-      font-family: 'Playfair Display', serif;
-      text-align: center;
-      color: #2C2C2C;
-      transition: transform 0.2s ease, box-shadow 0.2s ease;
-  " onmouseover="this.style.transform='scale(1.03)';this.style.boxShadow='0 6px 10px rgba(0,0,0,0.1)'" onmouseout="this.style.transform='scale(1)';this.style.boxShadow='0 4px 6px rgba(0,0,0,0.05)'">
-    <strong style="font-size: 1.4em;">Zola</strong>
+    <strong style="font-size: 1.4em;">Liste de Mariage</strong>
   </a>
 
 </div>
@@ -652,7 +733,7 @@
     <strong>Taxi :</strong> Les Taxis Acacya attendent généralement à l'extérieur de l'aéroport. Le tarif est d'environ 30 à 35 dollars. Si vous arrivez tard dans la nuit, il est préférable de réserver à l'avance.
   </div>
   <div style="font-size: 1.2em; text-align: center; margin-bottom: 1.5em;">
-    <strong>Service de navette :</strong> Don Bosco Travel — Contact : +503 7820-5478. Le tarif est d'environ $$$.<br /><br />
+    <strong>Réserver un service de navette :</strong> Don Bosco Travel — Contact : +503 7820-5478. Le tarif est d'environ 40$. Dites-leur que c’est pour le mariage « Le Roy y Villavicencio ».<br /><br />
   </div>
 
   <!-- Hotels -->
@@ -1050,7 +1131,7 @@
   <!-- Safety -->
   <strong>
     <div style="font-size: 1.3em; margin-bottom: 0.5em;">
-      Lr pays est-il sûr ?
+      Le pays est-il sûr ?
     </div>
   </strong>
   <div style="font-size: 1.2em; margin-bottom: 1.5em;">
@@ -1097,7 +1178,7 @@
   <!-- Cash -->
   <strong>
     <div style="font-size: 1.3em; margin-bottom: 0.5em;">
-      Dois-je porter de l'argent liquide ?
+      Dois-je amener de l'argent liquide ?
     </div>
   </strong>
   <div style="font-size: 1.2em;">
