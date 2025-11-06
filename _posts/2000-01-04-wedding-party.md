@@ -120,13 +120,16 @@ style: center
   <!-- Civil Ceremony -->
   <strong>
     <div style="font-size: 1.5em; margin-bottom: 0.5em;">
-      Cérémonie Civile
+      Cérémonie Civile et Célébration
     </div>
   </strong>
   <div style="font-size: 1.2em; margin-bottom: 2em;">
     La cérémonie civile aura lieu sur le même site, suivie d'une réception cocktail, dîner et fête.<br><br>
   </div>
 
+<div style="font-size: 1.2em; margin-bottom: 2em;">
+    Si vous avez un régime alimentaire particulier, veuillez en informer Camille (+33670831699)<br><br>
+  </div>
 
   <!-- Shuttle Service Info -->
   <strong>
