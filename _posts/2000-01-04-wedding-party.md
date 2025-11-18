@@ -144,6 +144,11 @@ style: center
   </div>
 
 
+<div style="text-align: center; margin-bottom: 2em;">
+  <a href="https://docs.google.com/spreadsheets/d/1MFUoImAoF3adlqQdmAtA2lai0LKnIVUM/edit?usp=sharing&ouid=106323276158747481374&rtpof=true&sd=true" target="_blank" 
+     style="display: inline-block; background-color: #2C2C2C; color: white; font-weight: bold; padding: 8px 14px; border-radius: 30px; text-decoration: none; font-size: 1.1em;">
+    S’inscrire à la navette
+  </a>
 </div>
 
 
