@@ -45,7 +45,7 @@ style: center
   margin: 40px auto;
 ">
   <p style="font-size: 1.2em;">
-    Notre mariage aura lieu au site de réception 'Fôret', à seulement 15 minutes à l'extérieur de la ville, dans les collines de Comasagua. Avec sa terrasse spacieuse, son grand jardin et ses vues à couper le souffle, ça nous a semblé être l'endroit parfait pour se dire <em>oui</em> et célébrer avec vous !
+    Notre mariage aura lieu au site de réception 'Forêt', à seulement 15 minutes à l'extérieur de la ville, dans les collines de Comasagua. Avec sa terrasse spacieuse, son grand jardin et ses vues à couper le souffle, ça nous a semblé être l'endroit parfait pour se dire <em>oui</em> et célébrer avec vous !
   </p>
 </div>
 
