@@ -114,7 +114,7 @@ color: charcoal
     <span style="font-size: 2em;">Journée Pré-Mariage à la Plage</span><br>
     <br>
     <span style="font-size: 1.5em;">Vendredi 13 mars 2026</span><br><br>
-    <span style="font-size: 1.2em;">9:30 – 18:00</span>
+    <span style="font-size: 1.2em;">11:30 – 18:00</span>
   </strong>
 </div>
 
@@ -152,7 +152,7 @@ color: charcoal
   <!-- Intro Text -->
   <div style="font-size: 1.2em; margin-bottom: 2em;">
     Apportez vos maillots de bain ! <br><br>
-    Nous invitons nos amis et famille venus de l'étranger à profiter d'une journée détente à la plage.
+    Nous invitons nos amis et famille venus de l'étranger à profiter d'une après-midi détente à la plage.
   </div>
 
   <!-- Shuttle Service Info -->
@@ -163,7 +163,7 @@ color: charcoal
   </strong>
   <div style="font-size: 1.2em; margin-bottom: 2em;">
     Le transport sera fourni aux invités internationaux depuis <a href="https://maps.app.goo.gl/jkFJ23SHNEhP6SEx9" target="_blank">l'Hôtel Barcelo</a> vers El Sunzal. <br>
-    Heure de départ à l'Hôtel Barcelo : <strong>9:30</strong> <br>
+    Heure de départ à l'Hôtel Barcelo : <strong>11:30</strong> <br>
     Heure de retour à San Salvador : <strong>18:00</strong>
   </div>
 
@@ -175,7 +175,7 @@ color: charcoal
   </strong>
   <div style="font-size: 1.2em;">
     • Apportez maillot de bain, serviette, lunettes de soleil, crème solaire, tongs et vêtements légers. <br>
-    • Nourriture et boissons seront fournies. <br>
+    • Boissons et snacks seront fournies. <br>
     • Merci de confirmer votre présence via Camille (+33670831699).
   </div>
 
