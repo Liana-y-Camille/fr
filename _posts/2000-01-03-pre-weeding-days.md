@@ -114,7 +114,7 @@ color: charcoal
     <span style="font-size: 2em;">Journée Pré-Mariage à la Plage</span><br>
     <br>
     <span style="font-size: 1.5em;">Vendredi 13 mars 2026</span><br><br>
-    <span style="font-size: 1.2em;">11:30 – 18:00</span>
+    <span style="font-size: 1.2em;">13:00 – 19:00</span>
   </strong>
 </div>
 
@@ -163,8 +163,8 @@ color: charcoal
   </strong>
   <div style="font-size: 1.2em; margin-bottom: 2em;">
     Le transport sera fourni aux invités internationaux depuis <a href="https://maps.app.goo.gl/jkFJ23SHNEhP6SEx9" target="_blank">l'Hôtel Barcelo</a> vers El Sunzal. <br>
-    Heure de départ à l'Hôtel Barcelo : <strong>11:30</strong> <br>
-    Heure de retour à San Salvador : <strong>18:00</strong>
+    Heure de départ à l'Hôtel Barcelo : <strong>13:00</strong> <br>
+    Heure de retour à San Salvador : <strong>19:00</strong>
   </div>
 
   <!-- Keep in Mind -->
