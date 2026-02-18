@@ -94,8 +94,7 @@ style: center
   </strong>
 
 <div style="font-size: 1.4em; margin-bottom: 2em;">
-  Nous vous attendons dès 16h00 pour partager ce moment ensemble. <br>
-  La cérémonie débutera à 16h30.<br><br>
+  Nous vous attendons dès 16h00 pour partager ce moment ensemble. <br><br>
 </div>
 
   <!-- Image of the attire (centered) -->
