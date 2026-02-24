@@ -63,6 +63,29 @@ color: charcoal
     Pour commencer les célébrations, nous invitons les amis et famille voyageant depuis l'étranger pour un déjeuner dans la maison de campagne de Liana, suivi d'une visite d'Ataco, une charmante ville dans les montagnes d'El Salvador.
   </div>
 
+
+<!-- White Party Theme -->
+  <strong>
+    <div style="font-size: 1.5em; margin-bottom: 0.3em;">
+      Thème "Tous en Blanc"
+    </div>
+  </strong>
+  <div style="font-size: 1.2em; margin-bottom: 0.5em;">
+    Commençons les festivités avec style ! Nous vous invitons à <strong>porter du blanc</strong> pour cette journée.
+  </div>
+
+   <!-- Image of the attire (centered) -->
+  <div style="display: flex; justify-content: center; margin-bottom: 3em;">
+    <div style="
+      width: 40%;
+      aspect-ratio: 1 / 1;
+      background: url('/assets/img/white_attire_gemini.png') no-repeat center center;
+      background-size: contain; /* keeps proportions */
+      border-radius: 8px; /* optional: soften corners */
+    "></div> 
+  </div>
+
+
   <!-- Shuttle Service Info -->
   <strong>
     <div style="font-size: 1.5em; margin-bottom: 0.5em;">
@@ -154,29 +177,6 @@ color: charcoal
     Apportez vos maillots de bain ! <br><br>
     Nous invitons nos amis et famille venus de l'étranger à profiter d'une après-midi détente à la plage.
   </div>
-
-
-<!-- White Party Theme -->
-  <strong>
-    <div style="font-size: 1.5em; margin-bottom: 0.3em;">
-      Thème "Tous en Blanc"
-    </div>
-  </strong>
-  <div style="font-size: 1.2em; margin-bottom: 0.5em;">
-    Commençons les festivités avec style ! Nous vous invitons à <strong>porter du blanc</strong> pour cette journée.
-  </div>
-
-   <!-- Image of the attire (centered) -->
-  <div style="display: flex; justify-content: center; margin-bottom: 3em;">
-    <div style="
-      width: 40%;
-      aspect-ratio: 1 / 1;
-      background: url('/assets/img/white_attire_gemini.png') no-repeat center center;
-      background-size: contain; /* keeps proportions */
-      border-radius: 8px; /* optional: soften corners */
-    "></div> 
-  </div>
-
 
   <!-- Shuttle Service Info -->
   <strong>
