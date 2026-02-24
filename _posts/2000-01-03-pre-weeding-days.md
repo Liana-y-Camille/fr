@@ -67,7 +67,7 @@ color: charcoal
 <!-- White Party Theme -->
   <strong>
     <div style="font-size: 1.5em; margin-bottom: 0.3em;">
-      Thème "Tous en Blanc"
+      "White Party" Theme
     </div>
   </strong>
   <div style="font-size: 1.2em; margin-bottom: 0.5em;">
